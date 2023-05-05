@@ -1,0 +1,53 @@
+/* SAVE LEADS  */
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+input {
+    border: solid #5f9341 1px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+button{
+    background: #5f9341;
+    color: white;
+    padding: 8px 20px;
+    margin-top: 5px;
+    font-weight: bold;
+    border: 1px solid #5f9341;
+}
+#ul-el {
+    color: #5f9341;
+    font-size: small;
+}
+#delete-btn {
+    background: none;
+    color: #5f9341;
+}
+
+
+p {
+    color: red;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    
+}
+    
+li {
+    margin-top: 5px;
+}
+
+a {
+    
+    text-decoration: none;
+    color: #5f9341;
+}
+
+/* SAVE LEADS  */
